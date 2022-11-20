@@ -1,4 +1,4 @@
-# Multidimensional approximation with thin plate regularization
+# A multidimensional approximation with thin plate smoothing
 
 Alexander Knysh, [github repository](https://github.com/alexanderknysh/thinplaterbf)
 

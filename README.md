@@ -1,4 +1,4 @@
-# A multidimensional radial basis functions approximation with thin plate smoothing
+# A constrained multidimensional radial basis function approximation with thin plate regularization
 
 Alexander Knysh, [github repository](https://github.com/alexanderknysh/thinplaterbf)
 
